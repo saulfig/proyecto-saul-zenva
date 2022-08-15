@@ -1,0 +1,61 @@
+.estado {
+    font-size: 35pt  ;
+    text-align:right
+}
+body {
+   
+font-family: cursive;
+    font-weight: 20pt;
+    font-weight: bold;
+    background-color:darkmagenta;
+}
+
+
+
+.tile {
+    width:300px;
+   height: 200px ;
+    margin: 5px ;
+    padding: 5px;
+    float : left ; 
+    
+    background-color:chocolate 
+}
+.city-image {
+    background-image: url(santiago.jpg);
+}
+        
+            
+
+#main-container {width "400px"
+    
+    max-width: 900px ;
+    min-width : 400px ;
+    margin: 0 auto ;
+    }
+/* background colors for the tiles */
+.green {
+    background-color:forestgreen;
+}
+
+.tink {
+    background-color:aqua;
+}
+.green2 {
+    background-color:brown;
+}
+.green3 {
+    background-color:blue;
+}
+
+.saul {
+    background-color:forestgreen;
+}
+.green4 {
+    background-color:grey;
+}
+
+.user{
+    margin: auto ;
+    font-weight: normal
+}
